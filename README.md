@@ -30,19 +30,19 @@ Toast notifications for success/errors.
 
 Project Structure : 
 DirectoryManagementSystem/
-│-- backend/                     # .NET Core API
-│   ├── Controllers/              # API Controllers
-│   ├── Models/                   # Database Models
-│   ├── Services/                 # Business Logic
-│   ├── Repositories/             # Data Access Layer
-│   ├── Migrations/               # Database Migrations
-│   ├── appsettings.json          # Configuration File
+│-- backend/                    # .Net + MSSQL Server
+│   ├── Controllers/              
+│   ├── Models/                  
+│   ├── Services/                
+│   ├── Repositories/            
+│   ├── Migrations/               
+│   ├── appsettings.json        
 │-- frontend/                    # ReactJS
 │   ├── src/
-│   │   ├── components/           # Reusable UI Components
-│   │   ├── pages/                # Page Components
-│   │   ├── services/             # API Calls
-│   │   ├── App.js                # Main Application File (ReactJS)
+│   │   ├── components/           
+│   │   ├── pages/                
+│   │   ├── services/            
+│   │   ├── App.js                
 │   │   ├── main.ts           
 │   ├── package.json              # Dependencies for Frontend
 │-- README.md                     # Project Documentation
