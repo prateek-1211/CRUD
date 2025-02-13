@@ -29,14 +29,14 @@ Responsive UI for various screen sizes.
 Toast notifications for success/errors.
 
 Project Structure : 
-DirectoryManagementSystem/
+BusinessList/
 │-- backend/                    # .Net + MSSQL Server
 │   ├── Controllers/              
 │   ├── Models/                  
 │   ├── Services/                
 │   ├── Repositories/            
 │   ├── Migrations/               
-│   ├── appsettings.json        
+│   ├── appsettings.json 
 │-- frontend/                    # ReactJS
 │   ├── src/
 │   │   ├── components/           
@@ -46,7 +46,7 @@ DirectoryManagementSystem/
 │   │   ├── main.ts           
 │   ├── package.json              # Dependencies for Frontend
 │-- README.md                     # Project Documentation
-│-- .gitignore                     # Excludes node_modules & unnecessary files
+│-- .gitignore                    # Excludes node_modules & unnecessary files
 
 Dependencies
 
